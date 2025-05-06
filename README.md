@@ -35,10 +35,9 @@ A short login Automated Test using Cucumber for https://www.saucedemo.com/
 
     
 ## Run Test
-
-Click Run'CucumberTestRunner.Java'
-
-
+'''
+gradle test
+'''
 
 
 ## Dependencies
@@ -50,3 +49,10 @@ cucumber-junit:7.22.1
 bonigarcia:webdrivermanager:6.1.0
 
 elenium-java:4.32.0
+
+gradle-8.5
+
+
+##Gradle installation
+
+https://docs.gradle.org/current/userguide/installation.html
