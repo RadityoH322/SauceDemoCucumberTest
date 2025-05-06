@@ -54,9 +54,6 @@ gradle-8.5
 
 
 
-
-
-
-##Gradle installation
+## Gradle installation
 
 https://docs.gradle.org/current/userguide/installation.html
